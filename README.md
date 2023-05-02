@@ -11,4 +11,4 @@ Requirements: pygame
 [X] Include better sounds
 [ ] Better quality Kris Jenner
 
-Inspired by: https://www.geeksforgeeks.org/how-to-make-flappy-bird-game-in-pygame/ and https://www.askpython.com/python/examples/flappy-bird-game-in-python 
+Heavily inspired by: https://www.geeksforgeeks.org/how-to-make-flappy-bird-game-in-pygame/ and https://www.askpython.com/python/examples/flappy-bird-game-in-python 
